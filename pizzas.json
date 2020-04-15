@@ -7,7 +7,7 @@
         2
       ],
       "name": "Margherita",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44095.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44095.png"
     },
     {
       "ingredients": [
@@ -15,7 +15,7 @@
         5
       ],
       "name": "Ricci",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44092.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44092.png"
     },
     {
       "ingredients": [
@@ -25,7 +25,7 @@
         4
       ],
       "name": "Boscaiola",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44090.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44090.png"
     },
     {
       "ingredients": [
@@ -34,7 +34,7 @@
         6
       ],
       "name": "Primavera",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44077.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44077.png"
     },
     {
       "ingredients": [
@@ -44,7 +44,7 @@
         8
       ],
       "name": "Hawaii",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44073.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44073.png"
     },
     {
       "ingredients": [
@@ -64,7 +64,7 @@
         10
       ],
       "name": "Mari e monti",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44075.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44075.png"
     },
     {
       "ingredients": [
@@ -72,7 +72,7 @@
         9
       ],
       "name": "Bottarga",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44071.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44071.png"
     },
     {
       "ingredients": [
@@ -82,7 +82,7 @@
         6
       ],
       "name": "Boottarga e Asparagi",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44068_error_on_purpose.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44068_error_on_purpose.png"
     },
     {
       "ingredients": [
@@ -91,7 +91,7 @@
         6
       ],
       "name": "Ricci e Asparagi",
-      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44066.png"
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44066.png"
     }
   ]
 }
