@@ -1,0 +1,97 @@
+{
+  "basePrice": 4,
+  "pizzas": [
+    {
+      "ingredients": [
+        1,
+        2
+      ],
+      "name": "Margherita",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44095.png"
+    },
+    {
+      "ingredients": [
+        1,
+        5
+      ],
+      "name": "Ricci",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44092.png"
+    },
+    {
+      "ingredients": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "Boscaiola",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44090.png"
+    },
+    {
+      "ingredients": [
+        1,
+        5,
+        6
+      ],
+      "name": "Primavera",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44077.png"
+    },
+    {
+      "ingredients": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "name": "Hawaii",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44073.png"
+    },
+    {
+      "ingredients": [
+        1,
+        9,
+        10
+      ],
+      "name": "Mare Bianco"
+    },
+    {
+      "ingredients": [
+        1,
+        2,
+        4,
+        8,
+        9,
+        10
+      ],
+      "name": "Mari e monti",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44075.png"
+    },
+    {
+      "ingredients": [
+        1,
+        9
+      ],
+      "name": "Bottarga",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44071.png"
+    },
+    {
+      "ingredients": [
+        1,
+        2,
+        9,
+        6
+      ],
+      "name": "Boottarga e Asparagi",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44068_error_on_purpose.png"
+    },
+    {
+      "ingredients": [
+        1,
+        5,
+        6
+      ],
+      "name": "Ricci e Asparagi",
+      "imageUrl": "http://pngimg.com/uploads/pizza/pizza_PNG44066.png"
+    }
+  ]
+}
